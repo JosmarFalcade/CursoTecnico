@@ -33,5 +33,6 @@ public class NotasEscolares {
     }
     System.out.println(".:Sistema de notas Encerrado:.")
     System.out.println("Alterado no VS online")
+    System.out.println("Teste de push")
 
 }
