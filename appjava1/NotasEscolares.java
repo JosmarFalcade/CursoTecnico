@@ -31,5 +31,7 @@ public class NotasEscolares {
         System.out.println("O aluno "+aluno+" teve a média "+notas[4]+" e foi " +resultado+ ".");
         ler.close();
     }
+    System.out.println(".:Sistema de notas Encerrado:.")
+    System.out.println("Alterado no VS online")
 
 }
